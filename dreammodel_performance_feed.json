@@ -435,7 +435,7 @@
       "share": 0.0606060606
     }
   ],
-  "generated_utc": "2026-09-21T06:24:55.380288+00:00",
+  "generated_utc": "2026-09-21T16:27:20.413234+00:00",
   "methodology": "latest published snapshot strictly before kickoff; completed games only; repeated refreshes deduplicated",
   "model_label": "DreamModel NFL Performance 1.0",
   "overall": {
@@ -694,7 +694,7 @@
     "post_kickoff_snapshots_graded": false,
     "sportsbook_odds_used": false
   },
-  "schema_version": "127.3",
+  "schema_version": "127.1",
   "status": "research",
   "weekly": [
     {
