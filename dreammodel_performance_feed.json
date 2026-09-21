@@ -1,7 +1,7 @@
 {
   "adjustment_recommendations": [],
   "error_attribution": [],
-  "generated_utc": "2026-09-21T01:50:04.563265+00:00",
+  "generated_utc": "2026-09-21T01:59:31.298486+00:00",
   "methodology": "latest published snapshot strictly before kickoff; completed games only; repeated refreshes deduplicated",
   "model_label": "DreamModel NFL Performance 1.0",
   "overall": {
