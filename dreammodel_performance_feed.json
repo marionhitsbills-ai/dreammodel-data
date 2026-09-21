@@ -1,0 +1,27 @@
+{
+  "adjustment_recommendations": [],
+  "error_attribution": [],
+  "generated_utc": "2026-09-21T01:44:54.901289+00:00",
+  "methodology": "latest published snapshot strictly before kickoff; completed games only; repeated refreshes deduplicated",
+  "model_label": "DreamModel NFL Performance 1.0",
+  "overall": {
+    "base_mean_error": null,
+    "final_interval_coverage": null,
+    "final_mean_error": null,
+    "frozen_pregame_rows": 73,
+    "graded_games": 0,
+    "graded_rows": 0,
+    "opportunity_mean_error": null,
+    "pending_rows": 73
+  },
+  "rolling_four_week": [],
+  "safety": {
+    "accepted_odds_modified": false,
+    "original_predictions_modified": false,
+    "post_kickoff_snapshots_graded": false,
+    "sportsbook_odds_used": false
+  },
+  "schema_version": "127.1",
+  "status": "research",
+  "weekly": []
+}
